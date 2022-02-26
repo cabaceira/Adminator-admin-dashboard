@@ -49,8 +49,8 @@ export default (function () {
         },
 
         markers : [{
-          latLng : [21.00, 78.00],
-          name : 'INDIA : 350',
+          latLng : [39.37, -9.08],
+          name : 'Charca : 350',
         }, {
           latLng : [-33.00, 151.00],
           name : 'Australia : 250',
